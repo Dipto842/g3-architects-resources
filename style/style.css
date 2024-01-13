@@ -1,0 +1,45 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+ 
+}
+header{
+    background: rgba(255, 144, 14, 0.10);
+    padding: 30px 230px;
+}
+
+.G3_felex{
+    display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.G3_felex > h1{
+
+}
+
+.G3_felex > ul{
+    display: flex;
+}
+
+.G3_felex > ul >li{
+    list-style: none;
+    margin-right: 84px;
+}
+
+.G3_felex > ul > li> a{
+    text-decoration: none;
+    color: var(--Dark-02, #424242);
+text-align: center;
+
+font-size: 18px;
+
+font-weight: 500;
+line-height: 26px; 
+}
+.Brand{}
+
+.heding{    }
+.pypari_preragiram{
+    
+}
